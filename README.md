@@ -5,9 +5,13 @@ This Python script provides functionality to calculate stock prices, price chang
 
 
 Features:
+
 Database Management: View, edit, and update stock listing information in the database.
+
 Price Calculation: Calculate stock prices based on various parameters and store the results in the database.
+
 Price Change Calculation: Determine the percentage change in stock prices and update the database accordingly.
+
 Income Calculation: Calculate sales revenue, commissions, and employee wages.
 
 

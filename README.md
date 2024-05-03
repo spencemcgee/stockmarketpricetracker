@@ -22,12 +22,14 @@ View index prices, deltas, and share prices.
 
 Calculator:
 Choose from options to calculate index prices, deltas, share prices, sales & commission, and employee wages.
+
 Index Calculators:
 Calculate index prices for SEI, MIX, and FCX indeces.
 Store calculated prices in the database.
 
 Price Change Calculators:
 Calculate percentage change in stock prices (deltas) and update the database.
+
 Income Calculators:
 Calculate sales revenue, commissions, and employee wages based on input parameters.
 
